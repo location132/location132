@@ -1,26 +1,32 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=02569B&height=150&section=header" />
 
+
+  
 ### 신입 flutter 개발자 이정원입니다!
 
-#### Introduce
+### 🖥️Introduce
 🏫2022.03~ 건국대학교 글로컬캠퍼스 20학번 ICT융합공학부 소프트웨어전공 재학중
 <br><br>
 안녕하세요, 지난 2년 동안 Flutter를 활용하여 웹 및 모바일 애플리케이션 개발을 배우고, Rive 등 다양한 기술을 습득해,<br>
 현재는 두 개의 앱 프로젝트를 곧 출시할 예정인 신입 개발자 이정원입니다.<br>
 새로운 기회에 대해 큰 기대와 열정을 가지고 있으며, 앞으로 더 많은 경험을 쌓고 성장하고자 합니다!
-<br><br>
+<br>
 
+
+
+### ✉️Contact
 <a href="mailto:piano23010@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:piano23010@gmail.com"/></a>
 <a href="https://intriguing-cowl-e9d.notion.site/Flutter-9ae547bbe5394ce2ab6e9a5280300a06"><img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white&link=https://intriguing-cowl-e9d.notion.site/Flutter-9ae547bbe5394ce2ab6e9a5280300a06"/></a> 
 
-<br><br>
-#### Bootcamp
+
+<br>
+
+### 🏕️Bootcamp
 ☁️9oormthon Training IN Goorm 자바스프링 & 리액트 풀스택 개발자 성장 과정 1회차 수료
 
-<br><br>
 
+<br>
 
-  
 
 ### 🔧 Stacks
 
@@ -49,7 +55,7 @@
 ![TestFlight](https://img.shields.io/badge/TestFlight-147EFB?style=for-the-badge&logo=Xcode&logoColor=white)
 ![Simulator](https://img.shields.io/badge/Simulator-147EFB?style=for-the-badge&logo=Xcode&logoColor=white)
 
-
+<br><br>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=location132)](https://github.com/anuraghazra/github-readme-stats)
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=location132)](https://github.com/anuraghazra/github-readme-stats)
