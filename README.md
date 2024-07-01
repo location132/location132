@@ -15,7 +15,10 @@
 
 
 ### ✉️Contact
-<a href="mailto:piano23010@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:piano23010@gmail.com"/></a>
+<a href="mailto:piano23010@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:piano23010@gmail.com"/></a><br>
+<br>
+- 노션에 놀러오세요!<br>
+
 <a href="https://intriguing-cowl-e9d.notion.site/Flutter-9ae547bbe5394ce2ab6e9a5280300a06"><img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white&link=https://intriguing-cowl-e9d.notion.site/Flutter-9ae547bbe5394ce2ab6e9a5280300a06"/></a> 
 
 
